@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sprefs</string>
+    <string name="save_button_text">Save</string>
+    <string name="enter_message_text">Enter Message</string>
+</resources>
